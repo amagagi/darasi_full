@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/amagagi/darasi.git
+[submodule "flutter"]
+	path = flutter
+	url = https://github.com/Mahamane-Laouan/darasi_app.git
